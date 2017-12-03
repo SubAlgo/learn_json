@@ -21,7 +21,4 @@ echo($myJson);
 
 echo('<br>');
 
-
-
-
 ?>
